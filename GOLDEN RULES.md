@@ -31,3 +31,4 @@
 ## 3. 🚀 Deploy & Git Sync
 * Git: `origin/main` -> `https://github.com/BaxromAvliyoqulov/ai_trainer.git`
 * Vercel: Production auto-deploy.
+

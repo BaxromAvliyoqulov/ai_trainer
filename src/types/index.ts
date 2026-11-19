@@ -119,3 +119,4 @@ export interface WorkoutHistoryRecord {
   finisherDone: boolean;
   feelingScore: number; // 1-5
 }
+

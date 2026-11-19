@@ -743,3 +743,4 @@ export function getSwapsForExercise(exerciseId: string, availableEquipment?: Equ
 
   return rawSwaps;
 }
+
